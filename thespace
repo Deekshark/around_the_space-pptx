@@ -1,0 +1,37 @@
+# Around The Space
+
+**Project Description:**
+
+An interactive 3D educational platform that brings space exploration artifacts to life, allowing users to discover the history, purpose, and scientific significance of human-made objects left behind on the Moon and Mars.
+
+**Key Features:**
+- Interactive 3D exploration of space environments.
+- Apollo 11 Eagle Lunar Module visualization.
+- Exploration of artifacts left on the Moon.
+- Mars exploration and surface visualization.
+- Interactive spacecraft component inspection.
+- Discovery explorer for space artifacts.
+- Visual mission timeline.
+- Educational, story-driven content.
+
+**Technologies Used:**
+- React
+- TypeScript
+- Vite
+- HTML
+- CSS
+- JavaScript
+- 3D models and textures
+
+**Objective:**
+
+To make space exploration history engaging and accessible through interactive 3D visualizations and educational storytelling.
+
+**Target Audience:**
+
+Students, educators, space enthusiasts, and curious learners.
+
+**Future Scope:**
+- Add more space missions and artifacts.
+- Expand scientific information about discovered objects.
+- Include additional interactive exploration experiences.
